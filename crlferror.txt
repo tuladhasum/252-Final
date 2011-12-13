@@ -1,0 +1,5 @@
+sfk addcr -dir . -file .txt -norec
+
+      changes LF endings into CR/LF for Windows,
+      on all .txt files of the current directory,
+      but NOT within subdirectories (no recursion).
